@@ -24,7 +24,6 @@ String amen = JOptionPane.showInputDialog("Enter place");
 		// likely take a bite out of your [body part] if you [verb]. Whatever
 		// you do, if you have an open wound, try to find another way to get
 		// back to the [place]. Good luck!
-		String story = "Pirhanas are more" +adjective+ ",do cross the river at night. Pirhanas are \n to fresh" +liquid+ "and will most likely take a bite out of your" +bodypart+ "if \n you" +verb+ ". Whatever you do be safe and try to reach" +place+ ";
 		// Make a pop-up for the final story. You can use \n to go to the next line
 		
 				
